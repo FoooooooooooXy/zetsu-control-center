@@ -1,0 +1,11 @@
+﻿.venv-build/
+build/
+dist/
+release/
+backups/
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+*.spec.bak
+u93Wg9GR*.jpg
