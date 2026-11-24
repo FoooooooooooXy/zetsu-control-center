@@ -1,0 +1,7 @@
+﻿Zetsu Control Center v1.0.0 (Windows x64 - Versao Portatil)
+=============================================================
+
+1. Execute ZetsuControl\ZetsuControl.exe (nao requer Python instalado).
+2. Perfis, preferencias da IA e chaves protegidas por Windows DPAPI sao gravados em:
+   %LOCALAPPDATA%\ZetsuControl
+3. A pasta da aplicacao nao recebe arquivos de configuracao nem segredos.
